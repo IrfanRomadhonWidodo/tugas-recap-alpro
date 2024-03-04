@@ -18,3 +18,6 @@ int main() {
 
     return 0;
 }
+
+/*Cara kerjanya yaitu i akan dikalikan dengan j secara nested while loop, 
+increment dan reset nilai secara manual dan hasilnya akan ditampilkan ke layar.*/
